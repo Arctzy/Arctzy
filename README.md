@@ -120,15 +120,6 @@ They include projects involving:
   </a>
 </p>
 
-### 🚀 Development Focus
-
-<p align="center">
-  📱 <b>Mobile Development</b> — Flutter • React Native<br><br>
-  🌐 <b>Web Development</b> — React • React.js • JavaScript<br><br>
-  🗄️ <b>Backend & Database</b> — Firebase • Supabase • MongoDB • SQL • NoSQL<br><br>
-  📊 <b>Analytics</b> — Business Analytics • Data Analysis • Data Visualization
-</p>
----
 
 
 
