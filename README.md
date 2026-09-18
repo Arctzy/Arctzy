@@ -98,18 +98,14 @@ They include projects involving:
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arctzy&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Arctzy GitHub Stats"
-  />
+  <img src="./profile/stats.svg" alt="Arvy's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arctzy&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Arctzy Top Languages"
-  />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ## 📊 GitHub Activity
