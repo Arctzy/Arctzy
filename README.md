@@ -105,19 +105,8 @@ They include projects involving:
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Arvy's Top Languages" />
 </p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/Arctzy">
-    <img src="https://komarev.com/ghpvc/?username=Arctzy&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
-</p>
-
-
-
 
 ## 📫 Connect With Me
 
