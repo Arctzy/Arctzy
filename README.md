@@ -112,7 +112,22 @@ They include projects involving:
   />
 </p>
 
+## 📊 GitHub Activity
 
+<p align="center">
+  <a href="https://github.com/Arctzy">
+    <img src="https://komarev.com/ghpvc/?username=Arctzy&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+</p>
+
+### 🚀 Development Focus
+
+<p align="center">
+  📱 <b>Mobile Development</b> — Flutter • React Native<br><br>
+  🌐 <b>Web Development</b> — React • React.js • JavaScript<br><br>
+  🗄️ <b>Backend & Database</b> — Firebase • Supabase • MongoDB • SQL • NoSQL<br><br>
+  📊 <b>Analytics</b> — Business Analytics • Data Analysis • Data Visualization
+</p>
 ---
 
 ## 🎯 Current Goals
