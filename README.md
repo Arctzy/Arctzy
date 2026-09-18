@@ -80,7 +80,6 @@ I enjoy building practical applications that combine **technology, data, and pro
 My repositories contain projects I've developed throughout my journey as an **Information Technology student**.
 Check out my repositories to see my latest projects, contributions, and development progress.
 
-🔗 [View My Repositories](https://github.com/Arctzy?tab=repositories)
 
 
 They include projects involving:
@@ -95,6 +94,7 @@ They include projects involving:
 - 🎨 UI/UX Design
 
 👇 **Check out my repositories to see my projects and development progress.**
+🔗 [View My Repositories](https://github.com/Arctzy?tab=repositories)
 
 ---
 
@@ -130,15 +130,7 @@ They include projects involving:
 </p>
 ---
 
-## 🎯 Current Goals
 
-I'm currently focused on improving my knowledge and skills in:
-
-**Flutter • React • React Native • Firebase • Supabase • MongoDB • SQL • NoSQL • API Integration • Business Analytics • Data Analytics**
-
-My goal is to continue developing **real-world applications and data-driven systems** while expanding my experience as an Information Technology student.
-
----
 
 ## 📫 Connect With Me
 
