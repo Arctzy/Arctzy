@@ -78,6 +78,10 @@ I enjoy building practical applications that combine **technology, data, and pro
 ## 🚀 Projects & Repositories
 
 My repositories contain projects I've developed throughout my journey as an **Information Technology student**.
+Check out my repositories to see my latest projects, contributions, and development progress.
+
+🔗 [View My Repositories](https://github.com/Arctzy?tab=repositories)
+
 
 They include projects involving:
 
