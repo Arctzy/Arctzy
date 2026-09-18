@@ -112,17 +112,6 @@ They include projects involving:
   />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arctzy&theme=tokyonight)
-
----
-
-## 🏆 GitHub Profile
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arctzy&style=for-the-badge)
 
 ---
 
