@@ -13,7 +13,7 @@ I enjoy building practical applications that combine **technology, data, and pro
 - 🎓 BS Information Technology Student
 - 📊 Specializing in **Business Analytics**
 - 📱 Interested in **Mobile & Web Development**
-- 💻 Building projects using **Flutter, React, and React Native**
+- 💻 Building projects using **Flutter, HTML, PHP, JS**
 - 🔥 Working with **Firebase and Supabase**
 - 🗄️ Exploring **SQL, NoSQL, and MongoDB**
 - 📈 Interested in **Data Analytics and Data Visualization**
@@ -67,7 +67,6 @@ I enjoy building practical applications that combine **technology, data, and pro
 - 📈 Data Analysis
 - 📉 Data Visualization
 - 🎨 UI/UX Design
-- ⚙️ System Analysis
 - 🔌 API Integration
 - 🗄️ Database Management
 - 📱 Mobile Application Development
